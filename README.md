@@ -3,7 +3,8 @@ I did it way back, but now I tried to do it on my own with some CSS styling and 
 I did, however, use some google help to get it in present state.
 Uploded using CLI and git.
 
-Live project [here](https://b4c1c.github.io/calculator-javascript/)
+> Live project [here](https://b4c1c.github.io/calculator-javascript/)
 
 Hope you like it!
-b4c1c
+
+> b4c1c
