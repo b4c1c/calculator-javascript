@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Calculator Challenge</title>
+</head>
+<body>
+    <div class="calc-container">
+        <span id="num1"></span>
+        <span id="num2"></span>
+
+        <div class="btn-container">
+            <button onclick="add()">Add</button>
+            <button onclick="subtract()">Subtract</button>
+            <button onclick="divide()">Divide</button>
+            <button onclick="multiply()">Multiply</button>
+        </div>
+
+        <p id="sum-element">Sum: </p>
+
+        <button onclick="reset()">Reset</button>
+        <br>
+        <button class="info-btn" onclick="alertBox()">Click for info</button>
+        <p>made by <a href="https://github.com/b4c1c">b4c1c</a></p>
+    </div>
+
+    <script type="text/javascript" src="javascript.js"></script>
+</body>
+</html>

@@ -1,0 +1,53 @@
+body{
+    padding-left: 10%;
+    padding-right: 10%;
+    background-color: rgb(56, 103, 235);
+    color: bisque;
+    font-weight: 600;
+    font-family: monospace, sans-serif, serif;
+}
+
+.calc-container{
+    border: solid black 3px;
+    height: 15rem;
+    width: 20rem;
+    text-align: center;
+    padding: 1rem;
+    margin-top: 3rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+span{
+    margin: 1rem;
+    border-bottom: solid black 1px;
+}
+
+.btn-container{
+    margin-top: 1rem;
+}
+
+button{
+    background-color: rgb(183, 202, 44);
+    border-radius: 1rem;
+    padding: 0.2rem;
+    margin: 0.2rem;
+    font-weight: 600;
+}
+
+.info-btn{
+    margin-top: 1rem;
+}
+
+
+a{
+    text-decoration: line-through; 
+    color: bisque;
+}
+a:visited{
+    color: bisque;   
+}
+
+a:hover{
+    color: black;
+}
